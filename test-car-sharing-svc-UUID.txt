@@ -1,0 +1,4 @@
+Title: test-car-sharing-svc
+Description: Aos Test Car Sharing Service
+Service Provider: SP robert_klajko
+UUID: aec0f8ce-6f55-4259-956c-dd30eee99e4c
